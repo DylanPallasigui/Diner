@@ -1,0 +1,1 @@
+simulates a diner starting with drinks then food then bill
